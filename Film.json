@@ -1,6 +1,11 @@
-{ 
+{
+  "film":  [
+          "Film1"[
+            "Titre" : "Les Minions",
+          ]
+  ]
   "Titre": "Les Minions",
-  "directeur": "George floyd is coronavirus confirmed holy shiz guys shidding and farding coming flipflorpdfalarppfffsdfgggshhhhh, Pierre Coffin",
+  "directeur": "Kyle Balda, Pierre Coffin",
   "Auteur": "Brian Lynch,",
   "Date": 2015,
   "Vedette": [
