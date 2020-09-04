@@ -1,25 +1,47 @@
 {
-  "film":  [
-          "Film1"[
-            "Titre" : "Les Minions",
-          ]
-  ]
-  "Titre": "Les Minions",
-  "directeur": "Ape, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Vedette": [
-    {
-      "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)"
-    },
-    {
-      "Nom": "Jon Hamm",
-      "Personnage": "Herb Overkill  (voix)"
-    },
-    {
-      "Nom": "Michael Keaton",
-      "Personnage": "Walter Nelson (voix)"
-    }
-  ]
+    "film": [
+                {
+                    "Titre": "Les Minions",
+                    "directeur": "Ape, Pierre Coffin",
+                    "Auteur": "Brian Lynch,",
+                    "Date": 2015,
+                    "Vedettes": [
+                                    {
+                                        "Nom": "Sandra Bullock",
+                                        "Personnage": "Scarlet Overkill (voix)"
+                                    },
+                                    {
+                                        "Nom": "Jon Hamm",
+                                        "Personnage": "Herb Overkill  (voix)"
+                                      },
+                                      {
+                                        "Nom": "Michael Keaton",
+                                        "Personnage": "Walter Nelson (voix)"
+                                      }
+                                ]    
+                },
+                {
+                    "Titre": "Fight Club",
+                    "directeur": "David Fincher",
+                    "Auteur": "Jim Uhls",
+                    "Date": 1999,
+                    "Vedettes": [
+                                    {
+                                        "Nom": "Edward Norton",
+                                        "Personnage": "Narateur (voix)"
+                                    },
+                                    {
+                                        "Nom": "Brad Pitt",
+                                        "Personnage": "Tyler Durden"
+                                      },
+                                      {
+                                        "Nom": "Meat Loaf",
+                                        "Personnage": "Robert 'Bob' Paulsen"
+                                      }
+                                ]    
+                } 
+            ]
+            
+    
 }
+   
