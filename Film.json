@@ -5,10 +5,10 @@
                     "directeur": "Ape, Pierre Coffin",
                     "Auteur": "Brian Lynch,",
                     "Date": 2015,
-                    "Budget": "",
-                    "BoxOffice": "",
-                    "Total": "",
-                    "WorldWild": "",
+                    "Budget": "ss",
+                    "BoxOffice": "ss",
+                    "Total": "ss",
+                    "WorldWild": "ss",
                     "Vedettes": [
                                     {
                                         "Nom": "Sandra Bullock",
@@ -32,18 +32,25 @@
                     "directeur": "David Fincher",
                     "Auteur": "Jim Uhls",
                     "Date": 1999,
+                    "Budget": "ss",
+                    "BoxOffice": "ss",
+                    "Total": "ss",
+                    "WorldWild": "ss",
                     "Vedettes": [
                                     {
                                         "Nom": "Edward Norton",
-                                        "Personnage": "Narateur (voix)"
+                                        "Personnage": "Narateur (voix)",
+                                        "Age": "ans"
                                     },
                                     {
                                         "Nom": "Brad Pitt",
-                                        "Personnage": "Tyler Durden"
+                                        "Personnage": "Tyler Durden",
+                                        "Age": "ans"
                                       },
                                       {
                                         "Nom": "Meat Loaf",
-                                        "Personnage": "Robert 'Bob' Paulsen"
+                                        "Personnage": "Robert 'Bob' Paulsen",
+                                        "Age": "Age"
                                       }
                                 ]    
                 } 
