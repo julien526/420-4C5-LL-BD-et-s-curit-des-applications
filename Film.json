@@ -5,18 +5,25 @@
                     "directeur": "Ape, Pierre Coffin",
                     "Auteur": "Brian Lynch,",
                     "Date": 2015,
+                    "Budget": ,
+                    "BoxOffice": ,
+                    "Total": ,
+                    "WorldWild": ,
                     "Vedettes": [
                                     {
                                         "Nom": "Sandra Bullock",
-                                        "Personnage": "Scarlet Overkill (voix)"
+                                        "Personnage": "Scarlet Overkill (voix)",
+                                        "Age": "1000 ans"
                                     },
                                     {
                                         "Nom": "Jon Hamm",
-                                        "Personnage": "Herb Overkill  (voix)"
+                                        "Personnage": "Herb Overkill  (voix)",
+                                        "Age": "49 ans"
                                       },
                                       {
                                         "Nom": "Michael Keaton",
-                                        "Personnage": "Walter Nelson (voix)"
+                                        "Personnage": "Walter Nelson (voix)",
+                                        "Age": "69 ans"
                                       }
                                 ]    
                 },
